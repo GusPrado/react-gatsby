@@ -1,0 +1,12 @@
+{
+  "name": "powersites",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.19.12",
+    "gatsby-cli": "^2.8.29",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
